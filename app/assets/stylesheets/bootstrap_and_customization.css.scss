@@ -5,6 +5,7 @@ $navbar-inverse-link-color: #ecf0f1;
 $brand-primary: #e67e22;
 $jumbotron-bg: #95a5a6;
 $btn-default-bg: #ecf0f1;
+$panel-default-heading-bg: $jumbotron-bg;
 
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
